@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
-
+my-prep.iml
+.idea
+.mvn
+target
+.DS_Store
 # Log file
 *.log
 
